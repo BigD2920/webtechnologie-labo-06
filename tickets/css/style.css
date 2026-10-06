@@ -1,0 +1,14 @@
+th {
+    background-color: black;
+    color: white;
+}
+tr:nth-of-type(odd){background-color: grey;}
+body {
+    text-align: center;
+}
+th {
+    padding:20px;
+}
+table {
+    border-collapse: collapse;
+}
