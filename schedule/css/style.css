@@ -1,0 +1,27 @@
+th {
+    background-color: black;
+    color: white;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+th, td {
+    min-width: 120px;
+}
+
+#webtech {
+    background-color: red;
+    color: white;
+}
+#data {
+    background-color: blue;
+    color: white;
+}
+#itess {
+    background-color: rebeccapurple;
+    color: white;
+}
+#itorg {
+    background-color: pink;
+}
